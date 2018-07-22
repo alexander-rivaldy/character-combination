@@ -3,7 +3,7 @@ package main;
 import java.util.ArrayList;
 
 /**
- * Created by alexa on 22/07/2018.
+ * Created by Alexander on 22/07/2018.
  */
 public class Combination {
 

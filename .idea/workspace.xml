@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f4edeb2-9070-4019-9141-005aa45135df" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../vieple-coding-test/src/README.md" afterPath="$PROJECT_DIR$/../vieple-coding-test/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vieple-coding-test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../vieple-coding-test/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../vieple-coding-test/src/main/Combination.java" afterPath="$PROJECT_DIR$/../vieple-coding-test/src/main/Combination.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../vieple-coding-test/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,24 +33,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../vieple-coding-test/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="168">
+              <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Combination.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Combination.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../vieple-coding-test/src/main/Combination.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+            <state relative-caret-position="168">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <element signature="e#161#172#0" expanded="true" />
-                <element signature="e#967#976#0" expanded="true" />
+                <element signature="e#165#176#0" expanded="true" />
+                <element signature="e#971#980#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -76,9 +77,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../vieple-coding-test/src/main/Main.java" />
-        <option value="$PROJECT_DIR$/../vieple-coding-test/src/main/Combination.java" />
         <option value="$PROJECT_DIR$/../vieple-coding-test/src/README.txt" />
         <option value="$PROJECT_DIR$/../vieple-coding-test/src/README.md" />
+        <option value="$PROJECT_DIR$/../vieple-coding-test/README.md" />
+        <option value="$PROJECT_DIR$/../vieple-coding-test/src/main/Combination.java" />
       </list>
     </option>
   </component>
@@ -447,21 +449,18 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../vieple-coding-test/src/main/Combination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="55" lean-forward="false" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-          <folding>
-            <element signature="e#161#172#0" expanded="true" />
-            <element signature="e#967#976#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../THOUGHTWORKS/conference-track-management/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../vieple-coding-test/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="61" lean-forward="false" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -476,11 +475,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../vieple-coding-test/README.md">
+    <entry file="file://$PROJECT_DIR$/../vieple-coding-test/src/main/Combination.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#165#176#0" expanded="true" />
+            <element signature="e#971#980#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
